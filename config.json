@@ -20,6 +20,20 @@
       ]
     },
     {
+      "id": "python-data-structures",
+      "title": "Python Data Structures",
+      "description": "Practice lists, dictionaries, and loop-based data processing in Python.",
+      "path": "assignments/python-data-structures",
+      "dueDate": "2026-03-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "games-in-python",
       "title": "Games in Python",
       "description": "Creating games using Python",
