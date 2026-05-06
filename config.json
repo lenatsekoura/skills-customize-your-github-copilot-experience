@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "rest-apis-fastapi",
+      "title": "REST APIs with FastAPI",
+      "description": "Learn to build scalable REST APIs using FastAPI, exploring HTTP methods, request handling, and API design patterns.",
+      "path": "assignments/rest-apis-fastapi",
+      "dueDate": "2026-05-13",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
